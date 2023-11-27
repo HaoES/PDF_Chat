@@ -1,6 +1,7 @@
+faiss-cpu
 langchain
 openai
 PyPDF
 streamlit
-faiss-cpu
 streamlit-extras
+tiktoken
