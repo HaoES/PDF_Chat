@@ -1,4 +1,5 @@
 langchain
+openai
 PyPDF
 streamlit
 faiss-cpu
